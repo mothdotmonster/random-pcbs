@@ -1,5 +1,7 @@
 These are random PCB designs I've made. You can do whatever you want with them.
 
+They have probably not been tested and come with no guarantees. Make them at your own risk.
+
 These works are licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
